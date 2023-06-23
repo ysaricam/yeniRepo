@@ -15,6 +15,7 @@ public class Class01 {
         System.out.println("V3 kodları ....");
         //V4
         System.out.println("Versiyon 4 çalışmaları");
+        //V6 yeni çalışmalar
     }
 
 }
