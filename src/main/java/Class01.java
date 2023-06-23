@@ -13,6 +13,8 @@ public class Class01 {
         System.out.println("toplam = " + toplam);
         //V3
         System.out.println("V3 kodları ....");
+        //V4
+        System.out.println("Versiyon 4 çalışmaları");
     }
 
 }
