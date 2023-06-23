@@ -11,6 +11,8 @@ public class Class01 {
         int z = 4;
         toplam += z;
         System.out.println("toplam = " + toplam);
+        //V3
+        System.out.println("V3 kodları ....");
     }
 
 }
