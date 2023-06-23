@@ -18,6 +18,8 @@ public class Class01 {
         //V6 yeni çalışmalar
         //Versiyon 3 çalışmalarımız
         // Github versiyon çalışmaları
+        //TESSSTT
+        //KRALINA CATARIM
     }
 
 }
